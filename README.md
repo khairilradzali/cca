@@ -4,7 +4,7 @@ Canonical correlation analysis (CCA) is a general multivariate method that is ma
 
 Sources: Publicly available datasets (varechem and varespec)
 
-# References
+# Datasets and References
 [varespec: Vegetation and environment in lichen pastures](https://www.rdocumentation.org/packages/vegan/versions/2.4-2/topics/varespec)
 
 [Mosquito community diversity analysis with vegan](http://www.randigriffin.com/2017/05/23/mosquito-community-ecology-in-vegan.html)
